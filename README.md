@@ -31,9 +31,3 @@ A capstone project for the OSS NGMC Course featuring a structured audit of an op
 * [cite_start]**`script4_log_analyzer.sh` (Log File Analyzer):** Reads a specified log file line by line to count and summarize the occurrences of a specific keyword (e.g., ERROR or WARNING)[cite: 163, 164].
 * [cite_start]**`script5_manifesto_generator.sh` (The Open Source Manifesto Generator):** An interactive script that asks the user three questions about their view on open source and generates a personalized philosophy statement saved to a `.txt` file[cite: 185, 186].
 
-## ⚙️ How to Run the Scripts
-1. [cite_start]Clone the repository to your local Linux machine or VM[cite: 66].
-2. Ensure the scripts have executable permissions:
-   `chmod +x *.sh`
-3. Run the scripts individually from the terminal. For example:
-   `./script1_system_identity.sh`
